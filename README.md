@@ -81,7 +81,7 @@ The repository includes extensive development documentation for deep-dives:
 ---
 
 ## 👨‍💻 Author
-**Sangeetha Vish**  
+**Sangavi N**  
 *Passionate Full-Stack Developer creating digital solutions for real-world problems.*
 
 ---
