@@ -55,7 +55,7 @@ The project follows a clean, modular service-based architecture:
 ### Installation
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/Sangeetha-Vish/AgriRentalApp.git
+    git clone https://github.com/Sangavi86/AgriRentalApp.git
     cd AgriRentalApp
     ```
 2.  **Install dependencies:**
